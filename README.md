@@ -10,7 +10,7 @@ Lock package version
 Align packages versioning
 Use SSH keys instead of HTTPS
 
-for point2
+for point3
 
 
 
